@@ -1,2 +1,2 @@
 # hello
-my second repository
+i love :coffee:, :pizza:, and :dancer:.
